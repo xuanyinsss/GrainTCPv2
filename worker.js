@@ -5,7 +5,7 @@
 
 // --- 基础账号与网络配置 ---
 let UUID = "06b65903-406d-4a41-8463-6fd5c0ee7798"; //修改可用的uuid
-const WEB_PASSWORD = "@Qpalzm1p0q2o9e";  //修改你的登录密码
+const WEB_PASSWORD = "@Qpalzm1p0q2o9w";  //修改你的登录密码
 const SUB_PASSWORD = "123456";  //修改你的订阅密码
 const SUB_TOKEN = "";  //ST裂变Token，留空不启用，支持环境变量 SUB_TOKEN 覆盖
 const DEFAULT_PROXY_IP = 'Pro'+'xy'+'IP.CM'+'Liu'+'ssss.net'; //单个反代地址
