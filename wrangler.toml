@@ -1,4 +1,4 @@
-name = "GrainTCPv3"
+name = "graintcpv3"
 main = "worker.js"
 compatibility_date = "2025-04-07"
 workers_dev = true
